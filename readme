@@ -25,6 +25,11 @@ void weronika_majchrzak(void)
 	Weronika Majchrzak
 }
 
+void rafal_abucewicz(void)
+{
+	Rafał Abucewicz
+}
+
 void patryk_szadkowski(void)
 {
 	Patryk Szadkowski
@@ -45,7 +50,12 @@ void pawel_tomaszewski(void)
 	Paweł Tomaszewski
 }
 
-void mateusz_zielinski(void)
+void pawel_prylinski(void)
 {
-	Mateusz Zieliński
+	Paweł Pryliński
 }
+void eliasz_bak(void)
+{
+	Eliasz Bąk
+}
+
